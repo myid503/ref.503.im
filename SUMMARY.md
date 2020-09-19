@@ -96,5 +96,6 @@
 
 ---
 
+* [讲记](https://docs.503.im)
 * [返回503.im](https://www.503.im)
 
