@@ -1,8 +1,6 @@
 # Table of contents
 
 * [灵山一会·资料](README.md)
-* [废墟中的法幢](ling-shan-yi-hui-zi-liao.md)
-* [索达吉堪布简介](suo-da-ji-kan-bu-jian-jie.md)
 
 ## 分类阅读
 
@@ -299,4 +297,9 @@
 ---
 
 * [返回503.im](https://www.503.im)
+
+## 传承上师
+
+* [法王如意宝](chuan-cheng-shang-shi/ling-shan-yi-hui-zi-liao.md)
+* [索达吉堪布](chuan-cheng-shang-shi/suo-da-ji-kan-bu-jian-jie.md)
 
