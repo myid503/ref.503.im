@@ -239,7 +239,7 @@
   * [厌世歌——杜鹃妙音](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/yan-shi-ge-du-juan-miao-yin.md)
   * [瑜伽欢乐道歌——吉祥如意悦音](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/yu-ga-huan-le-dao-ge-ji-xiang-ru-yi-yue-yin.md)
   * [远唤上师——悉地藏流](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/yuan-huan-shang-shi-xi-di-cang-liu.md)
-  * [智悲精滴\_](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/README.md)
+  * [智悲精滴](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/README.md)
     * [前言](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/untitled-3.md)
     * [第一章](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/di-yi-zhang.md)
     * [第二章](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/di-er-zhang.md)
