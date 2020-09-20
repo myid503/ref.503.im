@@ -1,6 +1,7 @@
 # Table of contents
 
-* [废墟中的法幢](README.md)
+* [灵山一会·资料](README.md)
+* [废墟中的法幢](ling-shan-yi-hui-zi-liao.md)
 * [索达吉堪布简介](suo-da-ji-kan-bu-jian-jie.md)
 
 ## 分类阅读
