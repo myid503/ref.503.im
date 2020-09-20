@@ -247,6 +247,7 @@
     * [第四章](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/di-si-zhang.md)
     * [第五章](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/zhi-bei-jing-di/di-wu-zhang.md)
 * [实修教言](fen-lei-yue-du/shi-xiu-jiao-yan/README.md)
+  * [辞师之言](fen-lei-yue-du/shi-xiu-jiao-yan/ci-shi-zhi-yan.md)
   * [三十忠告论](fen-lei-yue-du/shi-xiu-jiao-yan/san-shi-zhong-gao-lun.md)
   * [三十忠告论要义简疏](fen-lei-yue-du/shi-xiu-jiao-yan/san-shi-zhong-gao-lun-yao-yi-jian-shu.md)
   * [上师瑜伽•祈祷莲师](fen-lei-yue-du/shi-xiu-jiao-yan/shang-shi-yu-qie-qi-dao-lian-shi.md)
