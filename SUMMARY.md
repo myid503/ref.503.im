@@ -128,7 +128,7 @@
     * [莲师刹土云游记译序](fen-lei-yue-du/zj/lian-shi-cha-tu-yun-you-ji/lian-shi-cha-tu-yun-you-ji-yi-xu.md)
     * [莲师刹土云游记](fen-lei-yue-du/zj/lian-shi-cha-tu-yun-you-ji/lian-shi-cha-tu-yun-you-ji-1.md)
   * [炉霍二高僧圆寂纪实](fen-lei-yue-du/zj/lu-huo-er-gao-seng-yuan-ji-ji-shi-1.md)
-* [法王教言系列](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/README.md)
+* [法王教言](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/README.md)
   * [法王晋美彭措传](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/fa-wang-jin-mei-peng-cuo-chuan/README.md)
     * [开篇](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/fa-wang-jin-mei-peng-cuo-chuan/kai-pian.md)
     * [多世中的化身](fen-lei-yue-du/fa-wang-jiao-yan-xi-lie/fa-wang-jin-mei-peng-cuo-chuan/duo-shi-zhong-de-hua-shen.md)
