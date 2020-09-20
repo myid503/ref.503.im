@@ -292,8 +292,11 @@
   * [费闲歌](fen-lei-yue-du/shi-xiu-jiao-yan/fei-xian-ge.md)
   * [除疫莲师观修法](fen-lei-yue-du/shi-xiu-jiao-yan/chu-yi-lian-shi-guan-xiu-fa.md)
 
----
+## 相关资源
 
 * [讲记笔录](https://docs.503.im)
+
+---
+
 * [返回503.im](https://www.503.im)
 
