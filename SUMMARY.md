@@ -284,11 +284,11 @@
   * [菩提心的修法](fen-lei-yue-du/shi-xiu-jiao-yan/pu-ti-xin-de-xiu-fa.md)
   * [观音占卜法明镜论](fen-lei-yue-du/shi-xiu-jiao-yan/guan-yin-zhan-bu-fa-ming-jing-lun.md)
   * [解脱道总要略说](fen-lei-yue-du/shi-xiu-jiao-yan/jie-tuo-dao-zong-yao-lve-shuo.md)
-  * [费闲歌](fen-lei-yue-du/shi-xiu-jiao-yan/fei-xian-ge.md)
   * [释迦佛修法仪轨](fen-lei-yue-du/shi-xiu-jiao-yan/shi-jia-fo-xiu-fa-yi-gui.md)
   * [释迦牟尼佛修法仪轨讲解](fen-lei-yue-du/shi-xiu-jiao-yan/shi-jia-mou-ni-fo-xiu-fa-yi-gui-jiang-jie.md)
   * [金刚萨埵修法如意宝珠](fen-lei-yue-du/shi-xiu-jiao-yan/jin-gang-sa-duo-xiu-fa-ru-yi-bao-zhu.md)
   * [阿弥陀佛灌顶及修法](fen-lei-yue-du/shi-xiu-jiao-yan/a-mi-tuo-fo-guan-ding-ji-xiu-fa.md)
+  * [费闲歌](fen-lei-yue-du/shi-xiu-jiao-yan/fei-xian-ge.md)
   * [除疫莲师观修法](fen-lei-yue-du/shi-xiu-jiao-yan/chu-yi-lian-shi-guan-xiu-fa.md)
 
 ---
